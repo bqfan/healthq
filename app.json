@@ -7,7 +7,7 @@
     "icon": "./src/assets/icon.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./src/assets/healthq.png",
+      "image": "./src/assets/medplum-logo.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
